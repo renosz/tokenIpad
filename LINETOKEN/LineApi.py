@@ -416,7 +416,7 @@ class LINE:
       print("       ~ TOKEN GENERATOR SUCCESS ~")
       print("=========================================")
       print("UA : 'Line/7.14.0 iPad 4.9.10'")
-      print("LA : 'IOSIPAD\t7.14.0\tiPhone_OS\t10.12.0'")
+      print("LA : 'IOSIPAD 7.14.0 iPhone_OS 10.12.0'")
       print("AuthToken :  " + self.authToken)
       print("Certificate : " + self.cert if self.cert is not None else "")
       print("=========================================")
